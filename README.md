@@ -30,6 +30,22 @@ This project was built as a fundamentals refresher while primarily working with 
 
 ---
 
+## 📸 Screenshots
+
+### Home Page
+<img width="1366" height="724" alt="Image" src="https://github.com/user-attachments/assets/fa08b42a-975d-426b-b7d1-eb588e0e9ef4" />
+
+### Register Page
+<img width="1366" height="727" alt="Image" src="https://github.com/user-attachments/assets/2b2f73ef-ece2-45c6-a7aa-e57f5531c834" />
+
+### Login Page
+<img width="1366" height="725" alt="Image" src="https://github.com/user-attachments/assets/a2a9e132-36f5-447c-a935-16d02eafe02a" />
+
+### User Profile
+<img width="1366" height="724" alt="Image" src="https://github.com/user-attachments/assets/329f1045-8a7c-494c-a976-d971a8aa7ab2" />
+
+
+---
 ## 🛠️ Tech Stack
 
 * **Java (JDK 17)**
